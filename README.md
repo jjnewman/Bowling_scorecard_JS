@@ -2,10 +2,8 @@
 
 -------------------------------
 ##Post-completion comments
-- This challenge was set in Javascript but I decided to tackle it in Ruby first because there are two layers of complexity: the complex algorithm and the lack of experience in JS. Doing it in Ruby first would at least enable me to get the logic nailed down.
-- This type of problem is probably my favourite type, as it requires an element of maths to get to the right answer (as well as an element of "time travelling" in the logic!).
-- I tackled it by the usual method: letting the tests build the logic and starting with the easier parts (not worrying about the tenth ball at first, for example).
-- I originally planned to have three or four classes but as the puzzle unravelled I realised that having just one class would be sufficient, and I was able to streamline the code quite well within that class after refactoring. 
+- The "Bowling_scorecard" repo was converted from Ruby into Javascript after the logic had been finalised, so this repo is the equivalent in JS. I was glad that I coded it in Ruby first otherwise it may have been a step too far!
+- The conversion to JS didn't cause any particular headaches and it was a good way to get more practice under my belt.
 
 
 
