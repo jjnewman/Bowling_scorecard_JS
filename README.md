@@ -5,8 +5,7 @@
 - The "Bowling_scorecard" repo was converted from Ruby into Javascript after the logic had been finalised, so this repo is the equivalent in JS. I was glad that I coded it in Ruby first otherwise it may have been a step too far!
 - The conversion to JS didn't cause any particular headaches and it was a good way to get more practice under my belt.
 
-
-
+  [![Code Climate](https://codeclimate.com/github/jjnewman/Bowling_scorecard_JS/badges/gpa.svg)](https://codeclimate.com/github/jjnewman/Bowling_scorecard_JS)
 
 -------------------------------
 
